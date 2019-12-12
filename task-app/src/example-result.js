@@ -6,6 +6,7 @@ const result = {
         droppableId: 'column-1',
         index: 0,
     },
+    // destination can be null, dragged outside of list
     destination: {
         droppableId: 'column-1',
         index: 1,
